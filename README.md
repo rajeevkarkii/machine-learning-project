@@ -1,1 +1,1 @@
-# machine-learning-project
+# machine_learning_project
